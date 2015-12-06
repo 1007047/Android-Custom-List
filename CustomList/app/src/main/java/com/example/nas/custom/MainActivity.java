@@ -38,7 +38,7 @@ public class MainActivity extends Activity {
 
     }
 
-
+   // Array item 
 
     private ArrayList<ItemList> getData() {
         ArrayList<ItemList> item = new ArrayList<>();
